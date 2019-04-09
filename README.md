@@ -1,6 +1,6 @@
 # classes_part_3
 
-Whjat I Learned:
+What I Learned:
 
 - Building on my previous fraction class assignment, this assignments calls for implimentation of multiple fraction objects. 
 I've added iverloading operators, all six relational operators, the four basic arithmetic operators, shorthand arithmetic 
